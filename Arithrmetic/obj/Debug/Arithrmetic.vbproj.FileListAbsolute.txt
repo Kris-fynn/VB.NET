@@ -1,0 +1,13 @@
+C:\Users\Kris Fynn\Documents\VB.NET\Arithrmetic\obj\Debug\Arithrmetic.vbproj.AssemblyReference.cache
+C:\Users\Kris Fynn\Documents\VB.NET\Arithrmetic\obj\Debug\Arithrmetic.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Kris Fynn\Documents\VB.NET\Arithrmetic\obj\Debug\Arithrmetic.Form1.resources
+C:\Users\Kris Fynn\Documents\VB.NET\Arithrmetic\obj\Debug\Arithrmetic.Resources.resources
+C:\Users\Kris Fynn\Documents\VB.NET\Arithrmetic\obj\Debug\Arithrmetic.vbproj.GenerateResource.cache
+C:\Users\Kris Fynn\Documents\VB.NET\Arithrmetic\obj\Debug\Arithrmetic.vbproj.CoreCompileInputs.cache
+C:\Users\Kris Fynn\Documents\VB.NET\Arithrmetic\bin\Debug\Arithrmetic.exe.config
+C:\Users\Kris Fynn\Documents\VB.NET\Arithrmetic\bin\Debug\Arithrmetic.exe
+C:\Users\Kris Fynn\Documents\VB.NET\Arithrmetic\bin\Debug\Arithrmetic.pdb
+C:\Users\Kris Fynn\Documents\VB.NET\Arithrmetic\bin\Debug\Arithrmetic.xml
+C:\Users\Kris Fynn\Documents\VB.NET\Arithrmetic\obj\Debug\Arithrmetic.exe
+C:\Users\Kris Fynn\Documents\VB.NET\Arithrmetic\obj\Debug\Arithrmetic.xml
+C:\Users\Kris Fynn\Documents\VB.NET\Arithrmetic\obj\Debug\Arithrmetic.pdb
