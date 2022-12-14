@@ -1,0 +1,13 @@
+C:\Users\Kris Fynn\Documents\VB.NET\CollectUserInput\bin\Debug\CollectUserInput.exe.config
+C:\Users\Kris Fynn\Documents\VB.NET\CollectUserInput\bin\Debug\CollectUserInput.exe
+C:\Users\Kris Fynn\Documents\VB.NET\CollectUserInput\bin\Debug\CollectUserInput.pdb
+C:\Users\Kris Fynn\Documents\VB.NET\CollectUserInput\bin\Debug\CollectUserInput.xml
+C:\Users\Kris Fynn\Documents\VB.NET\CollectUserInput\obj\Debug\CollectUserInput.vbproj.AssemblyReference.cache
+C:\Users\Kris Fynn\Documents\VB.NET\CollectUserInput\obj\Debug\CollectUserInput.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Kris Fynn\Documents\VB.NET\CollectUserInput\obj\Debug\CollectUserInput.Form1.resources
+C:\Users\Kris Fynn\Documents\VB.NET\CollectUserInput\obj\Debug\CollectUserInput.Resources.resources
+C:\Users\Kris Fynn\Documents\VB.NET\CollectUserInput\obj\Debug\CollectUserInput.vbproj.GenerateResource.cache
+C:\Users\Kris Fynn\Documents\VB.NET\CollectUserInput\obj\Debug\CollectUserInput.vbproj.CoreCompileInputs.cache
+C:\Users\Kris Fynn\Documents\VB.NET\CollectUserInput\obj\Debug\CollectUserInput.exe
+C:\Users\Kris Fynn\Documents\VB.NET\CollectUserInput\obj\Debug\CollectUserInput.xml
+C:\Users\Kris Fynn\Documents\VB.NET\CollectUserInput\obj\Debug\CollectUserInput.pdb

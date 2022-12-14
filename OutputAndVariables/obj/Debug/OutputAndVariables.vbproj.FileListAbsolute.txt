@@ -1,0 +1,13 @@
+C:\Users\Kris Fynn\Documents\VB.NET\OutputAndVariables\bin\Debug\OutputAndVariables.exe.config
+C:\Users\Kris Fynn\Documents\VB.NET\OutputAndVariables\bin\Debug\OutputAndVariables.exe
+C:\Users\Kris Fynn\Documents\VB.NET\OutputAndVariables\bin\Debug\OutputAndVariables.pdb
+C:\Users\Kris Fynn\Documents\VB.NET\OutputAndVariables\bin\Debug\OutputAndVariables.xml
+C:\Users\Kris Fynn\Documents\VB.NET\OutputAndVariables\obj\Debug\OutputAndVariables.vbproj.AssemblyReference.cache
+C:\Users\Kris Fynn\Documents\VB.NET\OutputAndVariables\obj\Debug\OutputAndVariables.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Kris Fynn\Documents\VB.NET\OutputAndVariables\obj\Debug\OutputAndVariables.Form1.resources
+C:\Users\Kris Fynn\Documents\VB.NET\OutputAndVariables\obj\Debug\OutputAndVariables.Resources.resources
+C:\Users\Kris Fynn\Documents\VB.NET\OutputAndVariables\obj\Debug\OutputAndVariables.vbproj.GenerateResource.cache
+C:\Users\Kris Fynn\Documents\VB.NET\OutputAndVariables\obj\Debug\OutputAndVariables.vbproj.CoreCompileInputs.cache
+C:\Users\Kris Fynn\Documents\VB.NET\OutputAndVariables\obj\Debug\OutputAndVariables.exe
+C:\Users\Kris Fynn\Documents\VB.NET\OutputAndVariables\obj\Debug\OutputAndVariables.xml
+C:\Users\Kris Fynn\Documents\VB.NET\OutputAndVariables\obj\Debug\OutputAndVariables.pdb

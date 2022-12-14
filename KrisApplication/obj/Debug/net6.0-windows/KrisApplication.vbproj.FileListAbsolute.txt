@@ -1,0 +1,17 @@
+C:\Users\Kris Fynn\Documents\VB.NET\KrisApplication\bin\Debug\net6.0-windows\KrisApplication.exe
+C:\Users\Kris Fynn\Documents\VB.NET\KrisApplication\bin\Debug\net6.0-windows\KrisApplication.deps.json
+C:\Users\Kris Fynn\Documents\VB.NET\KrisApplication\bin\Debug\net6.0-windows\KrisApplication.runtimeconfig.json
+C:\Users\Kris Fynn\Documents\VB.NET\KrisApplication\bin\Debug\net6.0-windows\KrisApplication.dll
+C:\Users\Kris Fynn\Documents\VB.NET\KrisApplication\bin\Debug\net6.0-windows\KrisApplication.pdb
+C:\Users\Kris Fynn\Documents\VB.NET\KrisApplication\obj\Debug\net6.0-windows\KrisApplication.vbproj.AssemblyReference.cache
+C:\Users\Kris Fynn\Documents\VB.NET\KrisApplication\obj\Debug\net6.0-windows\KrisApplication.Form1.resources
+C:\Users\Kris Fynn\Documents\VB.NET\KrisApplication\obj\Debug\net6.0-windows\KrisApplication.vbproj.GenerateResource.cache
+C:\Users\Kris Fynn\Documents\VB.NET\KrisApplication\obj\Debug\net6.0-windows\KrisApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kris Fynn\Documents\VB.NET\KrisApplication\obj\Debug\net6.0-windows\KrisApplication.AssemblyInfoInputs.cache
+C:\Users\Kris Fynn\Documents\VB.NET\KrisApplication\obj\Debug\net6.0-windows\KrisApplication.AssemblyInfo.vb
+C:\Users\Kris Fynn\Documents\VB.NET\KrisApplication\obj\Debug\net6.0-windows\KrisApplication.vbproj.CoreCompileInputs.cache
+C:\Users\Kris Fynn\Documents\VB.NET\KrisApplication\obj\Debug\net6.0-windows\KrisApplication.dll
+C:\Users\Kris Fynn\Documents\VB.NET\KrisApplication\obj\Debug\net6.0-windows\refint\KrisApplication.dll
+C:\Users\Kris Fynn\Documents\VB.NET\KrisApplication\obj\Debug\net6.0-windows\KrisApplication.pdb
+C:\Users\Kris Fynn\Documents\VB.NET\KrisApplication\obj\Debug\net6.0-windows\KrisApplication.genruntimeconfig.cache
+C:\Users\Kris Fynn\Documents\VB.NET\KrisApplication\obj\Debug\net6.0-windows\ref\KrisApplication.dll
