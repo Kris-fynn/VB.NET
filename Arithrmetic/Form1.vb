@@ -1,28 +1,28 @@
 ﻿Public Class Form1
     Private Sub btnCalculate_Click(sender As Object, e As EventArgs) Handles btnCalculate.Click
 
-        Dim iNumber1 As Integer
-        Dim iNumber2 As Integer
+        Dim dblNumber1 As Double
+        Dim dblNumber2 As Double
 
-        Dim iResult As Integer
-        iNumber1 = txtNumber1.Text
-        iNumber2 = txtNumber2.Text
+        Dim dblResult As Double
+        dblNumber1 = txtNumber1.Text
+        dblNumber2 = txtNumber2.Text
 
-        iResult = iNumber1 + iNumber2
+        dblResult = dblNumber1 + dblNumber2
 
-        MsgBox(iResult)
+        MsgBox(dblResult)
 
-        iResult = iNumber1 - iNumber2
+        dblResult = dblNumber1 - dblNumber2
 
-        MsgBox(iResult)
+        MsgBox(dblResult)
 
-        iResult = iNumber1 * iNumber2
+        dblResult = dblNumber1 * dblNumber2
 
-        MsgBox(iResult)
+        MsgBox(dblResult)
 
-        iResult = iNumber1 / iNumber2
+        dblResult = dblNumber1 / dblNumber2
 
 
-        MsgBox(iResult)
+        MsgBox(dblResult)
     End Sub
 End Class
