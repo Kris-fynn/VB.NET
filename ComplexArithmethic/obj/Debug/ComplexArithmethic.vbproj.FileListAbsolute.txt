@@ -1,0 +1,13 @@
+C:\Users\Kris Fynn\Documents\VB.NET\ComplexArithmethic\bin\Debug\ComplexArithmethic.exe.config
+C:\Users\Kris Fynn\Documents\VB.NET\ComplexArithmethic\bin\Debug\ComplexArithmethic.exe
+C:\Users\Kris Fynn\Documents\VB.NET\ComplexArithmethic\bin\Debug\ComplexArithmethic.pdb
+C:\Users\Kris Fynn\Documents\VB.NET\ComplexArithmethic\bin\Debug\ComplexArithmethic.xml
+C:\Users\Kris Fynn\Documents\VB.NET\ComplexArithmethic\obj\Debug\ComplexArithmethic.vbproj.AssemblyReference.cache
+C:\Users\Kris Fynn\Documents\VB.NET\ComplexArithmethic\obj\Debug\ComplexArithmethic.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Kris Fynn\Documents\VB.NET\ComplexArithmethic\obj\Debug\ComplexArithmethic.Resources.resources
+C:\Users\Kris Fynn\Documents\VB.NET\ComplexArithmethic\obj\Debug\ComplexArithmethic.vbproj.GenerateResource.cache
+C:\Users\Kris Fynn\Documents\VB.NET\ComplexArithmethic\obj\Debug\ComplexArithmethic.vbproj.CoreCompileInputs.cache
+C:\Users\Kris Fynn\Documents\VB.NET\ComplexArithmethic\obj\Debug\ComplexArithmethic.exe
+C:\Users\Kris Fynn\Documents\VB.NET\ComplexArithmethic\obj\Debug\ComplexArithmethic.xml
+C:\Users\Kris Fynn\Documents\VB.NET\ComplexArithmethic\obj\Debug\ComplexArithmethic.pdb
+C:\Users\Kris Fynn\Documents\VB.NET\ComplexArithmethic\obj\Debug\ComplexArithmethic.Form1.resources

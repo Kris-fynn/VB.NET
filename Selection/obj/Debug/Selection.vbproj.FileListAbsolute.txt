@@ -1,0 +1,13 @@
+C:\Users\Kris Fynn\Documents\VB.NET\Selection\bin\Debug\Selection.exe.config
+C:\Users\Kris Fynn\Documents\VB.NET\Selection\bin\Debug\Selection.exe
+C:\Users\Kris Fynn\Documents\VB.NET\Selection\bin\Debug\Selection.pdb
+C:\Users\Kris Fynn\Documents\VB.NET\Selection\bin\Debug\Selection.xml
+C:\Users\Kris Fynn\Documents\VB.NET\Selection\obj\Debug\Selection.vbproj.AssemblyReference.cache
+C:\Users\Kris Fynn\Documents\VB.NET\Selection\obj\Debug\Selection.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Kris Fynn\Documents\VB.NET\Selection\obj\Debug\Selection.Form1.resources
+C:\Users\Kris Fynn\Documents\VB.NET\Selection\obj\Debug\Selection.Resources.resources
+C:\Users\Kris Fynn\Documents\VB.NET\Selection\obj\Debug\Selection.vbproj.GenerateResource.cache
+C:\Users\Kris Fynn\Documents\VB.NET\Selection\obj\Debug\Selection.vbproj.CoreCompileInputs.cache
+C:\Users\Kris Fynn\Documents\VB.NET\Selection\obj\Debug\Selection.exe
+C:\Users\Kris Fynn\Documents\VB.NET\Selection\obj\Debug\Selection.xml
+C:\Users\Kris Fynn\Documents\VB.NET\Selection\obj\Debug\Selection.pdb

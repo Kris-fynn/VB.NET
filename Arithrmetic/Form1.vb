@@ -9,20 +9,25 @@
         dblNumber2 = txtNumber2.Text
 
         dblResult = dblNumber1 + dblNumber2
-
         MsgBox(dblResult)
 
         dblResult = dblNumber1 - dblNumber2
-
         MsgBox(dblResult)
 
         dblResult = dblNumber1 * dblNumber2
-
         MsgBox(dblResult)
 
         dblResult = dblNumber1 / dblNumber2
-
-
         MsgBox(dblResult)
+
+        dblResult = dblNumber1 ^ dblNumber2
+        MsgBox(dblResult)
+
+        dblResult = dblNumber1 \ dblNumber2
+        MsgBox(dblResult)
+
+        dblResult = dblNumber1 Mod dblNumber2
+        MsgBox(dblResult)
+
     End Sub
 End Class
