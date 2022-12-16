@@ -24,7 +24,7 @@ Partial Class Form1
     Private Sub InitializeComponent()
         Me.isCountry = New System.Windows.Forms.Label()
         Me.txtCountry = New System.Windows.Forms.TextBox()
-        Me.btGreet = New System.Windows.Forms.Button()
+        Me.btnGreet = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'isCountry
@@ -43,21 +43,21 @@ Partial Class Form1
         Me.txtCountry.Size = New System.Drawing.Size(171, 20)
         Me.txtCountry.TabIndex = 1
         '
-        'btGreet
+        'btnGreet
         '
-        Me.btGreet.Location = New System.Drawing.Point(250, 221)
-        Me.btGreet.Name = "btGreet"
-        Me.btGreet.Size = New System.Drawing.Size(116, 69)
-        Me.btGreet.TabIndex = 2
-        Me.btGreet.Text = "Greeting"
-        Me.btGreet.UseVisualStyleBackColor = True
+        Me.btnGreet.Location = New System.Drawing.Point(250, 221)
+        Me.btnGreet.Name = "btnGreet"
+        Me.btnGreet.Size = New System.Drawing.Size(116, 69)
+        Me.btnGreet.TabIndex = 2
+        Me.btnGreet.Text = "Greeting"
+        Me.btnGreet.UseVisualStyleBackColor = True
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
-        Me.Controls.Add(Me.btGreet)
+        Me.Controls.Add(Me.btnGreet)
         Me.Controls.Add(Me.txtCountry)
         Me.Controls.Add(Me.isCountry)
         Me.Name = "Form1"
@@ -69,5 +69,5 @@ Partial Class Form1
 
     Friend WithEvents isCountry As Label
     Friend WithEvents txtCountry As TextBox
-    Friend WithEvents btGreet As Button
+    Friend WithEvents btnGreet As Button
 End Class
