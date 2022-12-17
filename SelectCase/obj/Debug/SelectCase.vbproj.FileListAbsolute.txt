@@ -1,0 +1,13 @@
+C:\Users\Kris Fynn\Documents\VB.NET\SelectCase\bin\Debug\SelectCase.exe.config
+C:\Users\Kris Fynn\Documents\VB.NET\SelectCase\bin\Debug\SelectCase.exe
+C:\Users\Kris Fynn\Documents\VB.NET\SelectCase\bin\Debug\SelectCase.pdb
+C:\Users\Kris Fynn\Documents\VB.NET\SelectCase\bin\Debug\SelectCase.xml
+C:\Users\Kris Fynn\Documents\VB.NET\SelectCase\obj\Debug\SelectCase.vbproj.AssemblyReference.cache
+C:\Users\Kris Fynn\Documents\VB.NET\SelectCase\obj\Debug\SelectCase.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Kris Fynn\Documents\VB.NET\SelectCase\obj\Debug\SelectCase.Form1.resources
+C:\Users\Kris Fynn\Documents\VB.NET\SelectCase\obj\Debug\SelectCase.Resources.resources
+C:\Users\Kris Fynn\Documents\VB.NET\SelectCase\obj\Debug\SelectCase.vbproj.GenerateResource.cache
+C:\Users\Kris Fynn\Documents\VB.NET\SelectCase\obj\Debug\SelectCase.vbproj.CoreCompileInputs.cache
+C:\Users\Kris Fynn\Documents\VB.NET\SelectCase\obj\Debug\SelectCase.exe
+C:\Users\Kris Fynn\Documents\VB.NET\SelectCase\obj\Debug\SelectCase.xml
+C:\Users\Kris Fynn\Documents\VB.NET\SelectCase\obj\Debug\SelectCase.pdb

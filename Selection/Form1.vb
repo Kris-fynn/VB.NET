@@ -6,24 +6,24 @@ Public Class Form1
         Dim stCountry As String
         stCountry = txtCountry.Text
 
-        If stCountry = "Australia" Then MsgBox("hi")
+
+        If stCountry.ToUpper = "AUSTRALIA" Then MsgBox("hi")
         MsgBox("G'day mate")
         MsgBox("Good on ya")
-            MsgBox("No worries")
-
-        ElseIf stCountry = "France" Then
-            MsgBox("Banjour")
-            MsgBox("Comment allez-vous?")
-
-        ElseIf stCountry = "Japan" Then
-            MsgBox("Konnichiwa")
+        MsgBox("No worries")
+        ElseIf stCountry.ToUpper = "FRANCE" Then
+        MsgBox("Banjour")
+        MsgBox("Comment allez-vous?")
+        ElseIf stCountry.ToUpper = "JAPAN" Then
+        MsgBox("Konnichiwa")
         MsgBox("Choushi wa dou desu ka")
-
         Else
         MsgBox("Hello There")
         MsgBox("I hope you are well")
-
         End If
+
+
+        MsgBox("You entered" & stCountry)
 
 
     End Sub

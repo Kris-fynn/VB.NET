@@ -1,0 +1,13 @@
+C:\Users\Kris Fynn\Documents\VB.NET\LogicalOperators\bin\Debug\LogicalOperators.exe.config
+C:\Users\Kris Fynn\Documents\VB.NET\LogicalOperators\bin\Debug\LogicalOperators.exe
+C:\Users\Kris Fynn\Documents\VB.NET\LogicalOperators\bin\Debug\LogicalOperators.pdb
+C:\Users\Kris Fynn\Documents\VB.NET\LogicalOperators\bin\Debug\LogicalOperators.xml
+C:\Users\Kris Fynn\Documents\VB.NET\LogicalOperators\obj\Debug\LogicalOperators.vbproj.AssemblyReference.cache
+C:\Users\Kris Fynn\Documents\VB.NET\LogicalOperators\obj\Debug\LogicalOperators.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Kris Fynn\Documents\VB.NET\LogicalOperators\obj\Debug\LogicalOperators.Form1.resources
+C:\Users\Kris Fynn\Documents\VB.NET\LogicalOperators\obj\Debug\LogicalOperators.Resources.resources
+C:\Users\Kris Fynn\Documents\VB.NET\LogicalOperators\obj\Debug\LogicalOperators.vbproj.GenerateResource.cache
+C:\Users\Kris Fynn\Documents\VB.NET\LogicalOperators\obj\Debug\LogicalOperators.vbproj.CoreCompileInputs.cache
+C:\Users\Kris Fynn\Documents\VB.NET\LogicalOperators\obj\Debug\LogicalOperators.exe
+C:\Users\Kris Fynn\Documents\VB.NET\LogicalOperators\obj\Debug\LogicalOperators.xml
+C:\Users\Kris Fynn\Documents\VB.NET\LogicalOperators\obj\Debug\LogicalOperators.pdb
