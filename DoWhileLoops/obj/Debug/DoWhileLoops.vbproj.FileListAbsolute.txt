@@ -1,0 +1,13 @@
+C:\Users\Kris Fynn\Documents\VB.NET\DoWhileLoops\bin\Debug\DoWhileLoops.exe.config
+C:\Users\Kris Fynn\Documents\VB.NET\DoWhileLoops\bin\Debug\DoWhileLoops.exe
+C:\Users\Kris Fynn\Documents\VB.NET\DoWhileLoops\bin\Debug\DoWhileLoops.pdb
+C:\Users\Kris Fynn\Documents\VB.NET\DoWhileLoops\bin\Debug\DoWhileLoops.xml
+C:\Users\Kris Fynn\Documents\VB.NET\DoWhileLoops\obj\Debug\DoWhileLoops.vbproj.AssemblyReference.cache
+C:\Users\Kris Fynn\Documents\VB.NET\DoWhileLoops\obj\Debug\DoWhileLoops.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Kris Fynn\Documents\VB.NET\DoWhileLoops\obj\Debug\DoWhileLoops.Form1.resources
+C:\Users\Kris Fynn\Documents\VB.NET\DoWhileLoops\obj\Debug\DoWhileLoops.Resources.resources
+C:\Users\Kris Fynn\Documents\VB.NET\DoWhileLoops\obj\Debug\DoWhileLoops.vbproj.GenerateResource.cache
+C:\Users\Kris Fynn\Documents\VB.NET\DoWhileLoops\obj\Debug\DoWhileLoops.vbproj.CoreCompileInputs.cache
+C:\Users\Kris Fynn\Documents\VB.NET\DoWhileLoops\obj\Debug\DoWhileLoops.exe
+C:\Users\Kris Fynn\Documents\VB.NET\DoWhileLoops\obj\Debug\DoWhileLoops.xml
+C:\Users\Kris Fynn\Documents\VB.NET\DoWhileLoops\obj\Debug\DoWhileLoops.pdb
