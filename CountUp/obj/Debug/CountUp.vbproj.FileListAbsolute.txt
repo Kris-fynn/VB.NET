@@ -1,0 +1,13 @@
+C:\Users\Kris Fynn\Documents\VB.NET\CountUp\bin\Debug\CountUp.exe.config
+C:\Users\Kris Fynn\Documents\VB.NET\CountUp\bin\Debug\CountUp.exe
+C:\Users\Kris Fynn\Documents\VB.NET\CountUp\bin\Debug\CountUp.pdb
+C:\Users\Kris Fynn\Documents\VB.NET\CountUp\bin\Debug\CountUp.xml
+C:\Users\Kris Fynn\Documents\VB.NET\CountUp\obj\Debug\CountUp.vbproj.AssemblyReference.cache
+C:\Users\Kris Fynn\Documents\VB.NET\CountUp\obj\Debug\CountUp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Kris Fynn\Documents\VB.NET\CountUp\obj\Debug\CountUp.Form1.resources
+C:\Users\Kris Fynn\Documents\VB.NET\CountUp\obj\Debug\CountUp.Resources.resources
+C:\Users\Kris Fynn\Documents\VB.NET\CountUp\obj\Debug\CountUp.vbproj.GenerateResource.cache
+C:\Users\Kris Fynn\Documents\VB.NET\CountUp\obj\Debug\CountUp.vbproj.CoreCompileInputs.cache
+C:\Users\Kris Fynn\Documents\VB.NET\CountUp\obj\Debug\CountUp.exe
+C:\Users\Kris Fynn\Documents\VB.NET\CountUp\obj\Debug\CountUp.xml
+C:\Users\Kris Fynn\Documents\VB.NET\CountUp\obj\Debug\CountUp.pdb
