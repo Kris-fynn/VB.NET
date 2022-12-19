@@ -1,20 +1,19 @@
 ﻿Public Class Form1
     Private Sub btnStart_Click(sender As Object, e As EventArgs) Handles btnStart.Click
-        Dim stFruit As String
+        Dim astFruit(4) As String
 
-        stFruit = "Banana"
+        astFruit(0) = "Banana"
+        astFruit(1) = "Orange"
+        astFruit(2) = "Pineapple"
+        astFruit(3) = "Strawberry"
+        astFruit(4) = "Mango"
 
         MsgBox(stFruit)
 
-        stFruit = "Orange"
+        Dim i As String
+        i = 8
 
-        Dim stFruit2 As String
-
-        stFruit2 = "Pineapple"
-
-        stFruit2 = stFruit
-
-        MsgBox(stFruit2)
+        MsgBox(astFruit(i))
 
 
 
