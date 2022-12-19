@@ -3,6 +3,7 @@
 
         Dim stTarget As String
         Dim astFruit(9) As String
+        Dim bFound As Boolean
 
         astFruit(0) = "Apple"
         astFruit(1) = "Mango"
@@ -20,11 +21,15 @@
         Dim i As Integer
         For i = 0 To 9
             If astFruit(i) = stTarget Then
-                MsgBox("Found it")
-            Else
-                MsgBox("")
+                bFound = True
             End If
         Next
+
+        If bFound = True Then
+            MsgBox("Found it")
+        Else
+            MsgBox("not found")
+        End If
 
 
     End Sub
