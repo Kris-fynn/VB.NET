@@ -10,7 +10,7 @@
         astFruits(4) = "Mango"
 
 
-        Dim i As String
+        Dim i As Integer
 
         For i = 0 To 4
             MsgBox(astFruits(i))
