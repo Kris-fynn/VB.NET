@@ -3,8 +3,11 @@
 
         Dim stName As String
 
-        Do While stName <> "Kris"
+        Do While True
             stName = InputBox("Please enter your name")
+            If stName = "Kris" Then
+                Exit Do
+            End If
         Loop
 
         MsgBox("Hello " & stName)
