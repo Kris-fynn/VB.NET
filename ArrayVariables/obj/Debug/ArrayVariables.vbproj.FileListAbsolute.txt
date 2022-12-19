@@ -1,0 +1,13 @@
+C:\Users\Kris Fynn\Documents\VB.NET\ArrayVariables\bin\Debug\ArrayVariables.exe.config
+C:\Users\Kris Fynn\Documents\VB.NET\ArrayVariables\bin\Debug\ArrayVariables.exe
+C:\Users\Kris Fynn\Documents\VB.NET\ArrayVariables\bin\Debug\ArrayVariables.pdb
+C:\Users\Kris Fynn\Documents\VB.NET\ArrayVariables\bin\Debug\ArrayVariables.xml
+C:\Users\Kris Fynn\Documents\VB.NET\ArrayVariables\obj\Debug\ArrayVariables.vbproj.AssemblyReference.cache
+C:\Users\Kris Fynn\Documents\VB.NET\ArrayVariables\obj\Debug\ArrayVariables.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Kris Fynn\Documents\VB.NET\ArrayVariables\obj\Debug\ArrayVariables.Form1.resources
+C:\Users\Kris Fynn\Documents\VB.NET\ArrayVariables\obj\Debug\ArrayVariables.Resources.resources
+C:\Users\Kris Fynn\Documents\VB.NET\ArrayVariables\obj\Debug\ArrayVariables.vbproj.GenerateResource.cache
+C:\Users\Kris Fynn\Documents\VB.NET\ArrayVariables\obj\Debug\ArrayVariables.vbproj.CoreCompileInputs.cache
+C:\Users\Kris Fynn\Documents\VB.NET\ArrayVariables\obj\Debug\ArrayVariables.exe
+C:\Users\Kris Fynn\Documents\VB.NET\ArrayVariables\obj\Debug\ArrayVariables.xml
+C:\Users\Kris Fynn\Documents\VB.NET\ArrayVariables\obj\Debug\ArrayVariables.pdb
