@@ -1,0 +1,13 @@
+C:\Users\Kris Fynn\Documents\VB.NET\DoLoopzValidation\bin\Debug\DoLoopzValidation.exe.config
+C:\Users\Kris Fynn\Documents\VB.NET\DoLoopzValidation\bin\Debug\DoLoopzValidation.exe
+C:\Users\Kris Fynn\Documents\VB.NET\DoLoopzValidation\bin\Debug\DoLoopzValidation.pdb
+C:\Users\Kris Fynn\Documents\VB.NET\DoLoopzValidation\bin\Debug\DoLoopzValidation.xml
+C:\Users\Kris Fynn\Documents\VB.NET\DoLoopzValidation\obj\Debug\DoLoopzValidation.vbproj.AssemblyReference.cache
+C:\Users\Kris Fynn\Documents\VB.NET\DoLoopzValidation\obj\Debug\DoLoopzValidation.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Kris Fynn\Documents\VB.NET\DoLoopzValidation\obj\Debug\DoLoopzValidation.Form1.resources
+C:\Users\Kris Fynn\Documents\VB.NET\DoLoopzValidation\obj\Debug\DoLoopzValidation.Resources.resources
+C:\Users\Kris Fynn\Documents\VB.NET\DoLoopzValidation\obj\Debug\DoLoopzValidation.vbproj.GenerateResource.cache
+C:\Users\Kris Fynn\Documents\VB.NET\DoLoopzValidation\obj\Debug\DoLoopzValidation.vbproj.CoreCompileInputs.cache
+C:\Users\Kris Fynn\Documents\VB.NET\DoLoopzValidation\obj\Debug\DoLoopzValidation.exe
+C:\Users\Kris Fynn\Documents\VB.NET\DoLoopzValidation\obj\Debug\DoLoopzValidation.xml
+C:\Users\Kris Fynn\Documents\VB.NET\DoLoopzValidation\obj\Debug\DoLoopzValidation.pdb
