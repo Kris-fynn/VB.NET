@@ -39,7 +39,13 @@
         astPeople(3, 5) = "Dutch"
         astPeople(4, 5) = "Artist"
 
-        MsgBox(astPeople(4, 3))
+        Dim x As Integer
+        Dim y As Integer
+
+        x = 3
+        y = 2
+
+        MsgBox(astPeople(x, y))
 
 
 
