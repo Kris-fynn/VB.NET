@@ -20,7 +20,7 @@
 
         Dim i As Integer
         For i = 0 To 9
-            If astFruit(i) = stTarget Then
+            If astFruit(i).ToUpper = stTarget.ToUpper Then
                 bFound = True
             End If
         Next
