@@ -43,9 +43,14 @@
         Dim y As Integer
 
         x = 3
-        y = 2
+        y = 0
 
-        MsgBox(astPeople(x, y))
+        For x = 0 To 40
+            MsgBox(astPeople(x, y))
+
+        Next
+
+
 
 
 
